@@ -1,0 +1,21 @@
+﻿control,value
+E_CUSTOMER rows,1000.0
+E_CONTRAT_CREDIT rows,2426.0
+E_ENCOURS rows,2239.0
+Active exposure rows,940.0
+Rows after exposure-contract join,940.0
+Unmatched exposure-contract rows,0.0
+Distinct REF_CRDT in central table,793.0
+Central rows without matching customer info,0.0
+Rows with synthetic ID_BCT,793.0
+Rows with missing ID_DOC,636.0
+Rows with missing CODE_DOC,793.0
+Rows with default PM segment,693.0
+Rows with STATUT_DECLR = 1,793.0
+Exposure rows without monetary mapping,43.0
+Rows with MONT_ENCR_CRDT > 0,772.0
+Total ENCOURS,7122517.522000001
+Total IMPAYE_PRINCIPAL,172821.929
+Total IMPAYE_INTERET,10341.75
+Total MONT_ENCR_CRDT,7305681.201
+Rows with missing CODE_ENG_BCT,21.0

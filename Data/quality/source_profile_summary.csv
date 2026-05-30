@@ -1,0 +1,9 @@
+﻿table_name,status,rows,columns
+E_CUSTOMER,loaded,1000,134
+E_CONTRAT_CREDIT,loaded,2426,33
+E_ENCOURS,loaded,2239,13
+P_CODE_DOC_BCT,loaded,3,4
+P_FORME_CREDIT_BCT,loaded,4,5
+P_SEGMENT_FORCE,loaded,9,3
+P_SEGMENT_RISQ_CONDITION,loaded,8,4
+P_SEGMENT_RISQ_REGLE,loaded,2,3

@@ -1,0 +1,14 @@
+﻿control,value
+Central table rows,793.0
+PM central rows,693.0
+PP central rows,100.0
+Rows with ID_BCT not empty,693.0
+Rows with ID_BCT empty,100.0
+Rows with CODE_ENG_BCT not empty,772.0
+Rows with ID_ACTIVITE not empty,216.0
+Rows with MONT_ENCR_CRDT > 0,772.0
+Individual preparation rows,672.0
+Global preparation rows,4.0
+Individual total amount,6662232.407
+Global total amount,561163.403
+Central total amount,7305681.201
